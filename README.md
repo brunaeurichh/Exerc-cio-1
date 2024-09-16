@@ -1,1 +1,3 @@
-# Exerc-cio-1
+# Desenvolvido por
+## Estudante Bruna🫀
+### Primeira página em HTML E CSS
